@@ -1,0 +1,15 @@
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Temporary scripts (if you want to keep them off the web)
+# parse_hanja.py
+# embed_data.py
+# hanja_data.json
+# 한자.txt
