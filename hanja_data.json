@@ -2,22 +2,22 @@
   "8급": [
     {
       "hanja": "一",
-      "meaning": "한",
+      "meaning": "하나",
       "sound": "일"
     },
     {
       "hanja": "二",
-      "meaning": "두",
+      "meaning": "둘",
       "sound": "이"
     },
     {
       "hanja": "三",
-      "meaning": "석",
+      "meaning": "셋",
       "sound": "삼"
     },
     {
       "hanja": "四",
-      "meaning": "넉",
+      "meaning": "넷",
       "sound": "사"
     },
     {
@@ -51,8 +51,58 @@
       "sound": "십"
     },
     {
+      "hanja": "百",
+      "meaning": "백",
+      "sound": "백"
+    },
+    {
+      "hanja": "千",
+      "meaning": "천",
+      "sound": "천"
+    },
+    {
+      "hanja": "人",
+      "meaning": "사람",
+      "sound": "인"
+    },
+    {
+      "hanja": "口",
+      "meaning": "입",
+      "sound": "구"
+    },
+    {
+      "hanja": "手",
+      "meaning": "손",
+      "sound": "수"
+    },
+    {
+      "hanja": "足",
+      "meaning": "발",
+      "sound": "족"
+    },
+    {
+      "hanja": "目",
+      "meaning": "눈",
+      "sound": "목"
+    },
+    {
+      "hanja": "耳",
+      "meaning": "귀",
+      "sound": "이"
+    },
+    {
+      "hanja": "心",
+      "meaning": "마음",
+      "sound": "심"
+    },
+    {
+      "hanja": "力",
+      "meaning": "힘",
+      "sound": "력"
+    },
+    {
       "hanja": "日",
-      "meaning": "날",
+      "meaning": "해, 날",
       "sound": "일"
     },
     {
@@ -77,7 +127,7 @@
     },
     {
       "hanja": "金",
-      "meaning": "쇠",
+      "meaning": "쇠, 돈",
       "sound": "금"
     },
     {
@@ -87,38 +137,38 @@
     },
     {
       "hanja": "山",
-      "meaning": "뫼",
+      "meaning": "산",
       "sound": "산"
     },
     {
-      "hanja": "江",
-      "meaning": "가람",
-      "sound": "강"
+      "hanja": "川",
+      "meaning": "내",
+      "sound": "천"
     },
     {
-      "hanja": "東",
-      "meaning": "동녘",
-      "sound": "동"
+      "hanja": "田",
+      "meaning": "밭",
+      "sound": "전"
     },
     {
-      "hanja": "西",
-      "meaning": "서녘",
-      "sound": "서"
+      "hanja": "天",
+      "meaning": "하늘",
+      "sound": "천"
     },
     {
-      "hanja": "南",
-      "meaning": "남녘",
-      "sound": "남"
+      "hanja": "地",
+      "meaning": "땅",
+      "sound": "지"
     },
     {
-      "hanja": "北",
-      "meaning": "북녘",
-      "sound": "북"
+      "hanja": "上",
+      "meaning": "위",
+      "sound": "상"
     },
     {
-      "hanja": "大",
-      "meaning": "큰",
-      "sound": "대"
+      "hanja": "下",
+      "meaning": "아래",
+      "sound": "하"
     },
     {
       "hanja": "中",
@@ -126,49 +176,49 @@
       "sound": "중"
     },
     {
+      "hanja": "大",
+      "meaning": "크다",
+      "sound": "대"
+    },
+    {
       "hanja": "小",
-      "meaning": "작을",
+      "meaning": "작다",
+      "sound": "소"
+    },
+    {
+      "hanja": "多",
+      "meaning": "많다",
+      "sound": "다"
+    },
+    {
+      "hanja": "少",
+      "meaning": "적다",
       "sound": "소"
     },
     {
       "hanja": "父",
-      "meaning": "아비",
+      "meaning": "아버지",
       "sound": "부"
     },
     {
       "hanja": "母",
-      "meaning": "어미",
+      "meaning": "어머니",
       "sound": "모"
     },
     {
-      "hanja": "兄",
-      "meaning": "형",
-      "sound": "형"
-    },
-    {
-      "hanja": "弟",
-      "meaning": "아우",
-      "sound": "제"
-    },
-    {
-      "hanja": "女",
-      "meaning": "계집",
-      "sound": "녀"
-    },
-    {
       "hanja": "子",
-      "meaning": "아들",
+      "meaning": "자식",
       "sound": "자"
     },
     {
-      "hanja": "學",
-      "meaning": "배울",
-      "sound": "학"
+      "hanja": "女",
+      "meaning": "여자",
+      "sound": "여"
     },
     {
-      "hanja": "校",
-      "meaning": "학교",
-      "sound": "교"
+      "hanja": "男",
+      "meaning": "남자",
+      "sound": "남"
     },
     {
       "hanja": "先",
@@ -177,23 +227,28 @@
     },
     {
       "hanja": "生",
-      "meaning": "날",
+      "meaning": "나다",
       "sound": "생"
     },
     {
-      "hanja": "敎",
-      "meaning": "가르칠",
-      "sound": "교"
+      "hanja": "年",
+      "meaning": "해",
+      "sound": "년"
     },
     {
-      "hanja": "室",
-      "meaning": "집",
-      "sound": "실"
+      "hanja": "白",
+      "meaning": "희다",
+      "sound": "백"
     },
     {
-      "hanja": "人",
-      "meaning": "사람",
-      "sound": "인"
+      "hanja": "空",
+      "meaning": "비다",
+      "sound": "공"
+    },
+    {
+      "hanja": "文",
+      "meaning": "글",
+      "sound": "문"
     }
   ],
   "7급": [

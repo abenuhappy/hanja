@@ -45,9 +45,14 @@ def parse_hanja_csv(filepath):
     return data
 
 if __name__ == "__main__":
-    hanja_data = parse_hanja_csv('/Users/abenu/Downloads/Forecast/chinese/hanja.csv')
+    import os
+    base_dir = os.path.dirname(os.path.abspath(__file__))
+    input_csv = os.path.join(base_dir, 'hanja.csv')
+    output_json = os.path.join(base_dir, 'hanja_data.json')
     
-    with open('/Users/abenu/Downloads/Forecast/chinese/hanja_data.json', 'w', encoding='utf-8') as f:
+    hanja_data = parse_hanja_csv(input_csv)
+    
+    with open(output_json, 'w', encoding='utf-8') as f:
         json.dump(hanja_data, f, ensure_ascii=False, indent=2)
     
     for level, items in hanja_data.items():
