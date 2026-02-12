@@ -253,9 +253,19 @@
   ],
   "7급": [
     {
-      "hanja": "民",
-      "meaning": "백성",
-      "sound": "민"
+      "hanja": "家",
+      "meaning": "집",
+      "sound": "가"
+    },
+    {
+      "hanja": "校",
+      "meaning": "학교",
+      "sound": "교"
+    },
+    {
+      "hanja": "國",
+      "meaning": "나라",
+      "sound": "국"
     },
     {
       "hanja": "軍",
@@ -263,163 +273,33 @@
       "sound": "군"
     },
     {
-      "hanja": "手",
-      "meaning": "손",
-      "sound": "수"
+      "hanja": "京",
+      "meaning": "서울",
+      "sound": "경"
     },
     {
-      "hanja": "足",
-      "meaning": "발",
-      "sound": "족"
-    },
-    {
-      "hanja": "目",
-      "meaning": "눈",
-      "sound": "목"
-    },
-    {
-      "hanja": "耳",
-      "meaning": "귀",
-      "sound": "이"
-    },
-    {
-      "hanja": "口",
-      "meaning": "입",
-      "sound": "구"
-    },
-    {
-      "hanja": "心",
-      "meaning": "마음",
-      "sound": "심"
-    },
-    {
-      "hanja": "犬",
-      "meaning": "개",
-      "sound": "견"
-    },
-    {
-      "hanja": "牛",
-      "meaning": "소",
-      "sound": "우"
-    },
-    {
-      "hanja": "馬",
-      "meaning": "말",
-      "sound": "마"
-    },
-    {
-      "hanja": "草",
-      "meaning": "풀",
-      "sound": "초"
-    },
-    {
-      "hanja": "花",
-      "meaning": "꽃",
-      "sound": "화"
-    },
-    {
-      "hanja": "食",
-      "meaning": "먹을",
-      "sound": "식"
-    },
-    {
-      "hanja": "住",
-      "meaning": "살",
-      "sound": "주"
-    },
-    {
-      "hanja": "衣",
-      "meaning": "옷",
-      "sound": "의"
-    },
-    {
-      "hanja": "車",
-      "meaning": "수레",
-      "sound": "차"
-    },
-    {
-      "hanja": "市",
-      "meaning": "저자",
-      "sound": "시"
-    },
-    {
-      "hanja": "店",
-      "meaning": "가게",
-      "sound": "점"
-    },
-    {
-      "hanja": "洞",
-      "meaning": "마을",
+      "hanja": "東",
+      "meaning": "동녘",
       "sound": "동"
     },
     {
-      "hanja": "年",
-      "meaning": "해",
-      "sound": "년"
+      "hanja": "西",
+      "meaning": "서녘",
+      "sound": "서"
     },
     {
-      "hanja": "春",
-      "meaning": "봄",
-      "sound": "춘"
+      "hanja": "南",
+      "meaning": "남녘",
+      "sound": "남"
     },
     {
-      "hanja": "夏",
-      "meaning": "여름",
-      "sound": "하"
-    },
-    {
-      "hanja": "秋",
-      "meaning": "가을",
-      "sound": "추"
-    },
-    {
-      "hanja": "冬",
-      "meaning": "겨울",
-      "sound": "동"
-    },
-    {
-      "hanja": "王",
-      "meaning": "임금",
-      "sound": "왕"
-    },
-    {
-      "hanja": "夫",
-      "meaning": "지아비",
-      "sound": "부"
-    },
-    {
-      "hanja": "婦",
-      "meaning": "며느리",
-      "sound": "부"
-    },
-    {
-      "hanja": "老",
-      "meaning": "늙을",
-      "sound": "노"
-    },
-    {
-      "hanja": "少",
-      "meaning": "적을",
-      "sound": "소"
-    },
-    {
-      "hanja": "長",
-      "meaning": "길",
-      "sound": "장"
-    },
-    {
-      "hanja": "方",
-      "meaning": "모",
-      "sound": "방"
-    },
-    {
-      "hanja": "里",
-      "meaning": "마을",
-      "sound": "리"
+      "hanja": "北",
+      "meaning": "북녘",
+      "sound": "북"
     },
     {
       "hanja": "外",
-      "meaning": "바깥",
+      "meaning": "밖",
       "sound": "외"
     },
     {
@@ -428,34 +308,159 @@
       "sound": "내"
     },
     {
-      "hanja": "間",
-      "meaning": "사이",
-      "sound": "간"
+      "hanja": "今",
+      "meaning": "이제",
+      "sound": "금"
     },
     {
-      "hanja": "前",
-      "meaning": "앞",
-      "sound": "전"
+      "hanja": "古",
+      "meaning": "옛",
+      "sound": "고"
     },
     {
-      "hanja": "後",
-      "meaning": "뒤",
-      "sound": "후"
+      "hanja": "新",
+      "meaning": "새",
+      "sound": "신"
     },
     {
-      "hanja": "午",
-      "meaning": "낮",
-      "sound": "오"
+      "hanja": "長",
+      "meaning": "길",
+      "sound": "장"
     },
     {
-      "hanja": "時",
-      "meaning": "때",
-      "sound": "시"
+      "hanja": "高",
+      "meaning": "높을",
+      "sound": "고"
     },
     {
-      "hanja": "平",
-      "meaning": "평평할",
-      "sound": "평"
+      "hanja": "低",
+      "meaning": "낮을",
+      "sound": "저"
+    },
+    {
+      "hanja": "明",
+      "meaning": "밝을",
+      "sound": "명"
+    },
+    {
+      "hanja": "暗",
+      "meaning": "어두울",
+      "sound": "암"
+    },
+    {
+      "hanja": "早",
+      "meaning": "이를",
+      "sound": "조"
+    },
+    {
+      "hanja": "晩",
+      "meaning": "늦을",
+      "sound": "만"
+    },
+    {
+      "hanja": "入",
+      "meaning": "들",
+      "sound": "입"
+    },
+    {
+      "hanja": "出",
+      "meaning": "날",
+      "sound": "출"
+    },
+    {
+      "hanja": "行",
+      "meaning": "갈",
+      "sound": "행"
+    },
+    {
+      "hanja": "來",
+      "meaning": "올",
+      "sound": "래"
+    },
+    {
+      "hanja": "去",
+      "meaning": "갈",
+      "sound": "거"
+    },
+    {
+      "hanja": "立",
+      "meaning": "설",
+      "sound": "립"
+    },
+    {
+      "hanja": "坐",
+      "meaning": "앉을",
+      "sound": "좌"
+    },
+    {
+      "hanja": "見",
+      "meaning": "볼",
+      "sound": "견"
+    },
+    {
+      "hanja": "聞",
+      "meaning": "들을",
+      "sound": "문"
+    },
+    {
+      "hanja": "話",
+      "meaning": "말할",
+      "sound": "화"
+    },
+    {
+      "hanja": "語",
+      "meaning": "말씀",
+      "sound": "어"
+    },
+    {
+      "hanja": "書",
+      "meaning": "글",
+      "sound": "서"
+    },
+    {
+      "hanja": "讀",
+      "meaning": "읽을",
+      "sound": "독"
+    },
+    {
+      "hanja": "學",
+      "meaning": "배울",
+      "sound": "학"
+    },
+    {
+      "hanja": "習",
+      "meaning": "익힐",
+      "sound": "습"
+    },
+    {
+      "hanja": "問",
+      "meaning": "물을",
+      "sound": "문"
+    },
+    {
+      "hanja": "答",
+      "meaning": "대답",
+      "sound": "답"
+    },
+    {
+      "hanja": "開",
+      "meaning": "열",
+      "sound": "개"
+    },
+    {
+      "hanja": "閉",
+      "meaning": "닫을",
+      "sound": "폐"
+    },
+    {
+      "hanja": "動",
+      "meaning": "움직일",
+      "sound": "동"
+    },
+    {
+      "hanja": "靜",
+      "meaning": "고요할",
+      "sound": "정"
     },
     {
       "hanja": "安",
@@ -463,9 +468,39 @@
       "sound": "안"
     },
     {
-      "hanja": "活",
-      "meaning": "살",
-      "sound": "활"
+      "hanja": "危",
+      "meaning": "위태할",
+      "sound": "위"
+    },
+    {
+      "hanja": "有",
+      "meaning": "있을",
+      "sound": "유"
+    },
+    {
+      "hanja": "無",
+      "meaning": "없을",
+      "sound": "무"
+    },
+    {
+      "hanja": "同",
+      "meaning": "같을",
+      "sound": "동"
+    },
+    {
+      "hanja": "異",
+      "meaning": "다를",
+      "sound": "이"
+    },
+    {
+      "hanja": "全",
+      "meaning": "온전할",
+      "sound": "전"
+    },
+    {
+      "hanja": "半",
+      "meaning": "반",
+      "sound": "반"
     },
     {
       "hanja": "工",
@@ -473,19 +508,249 @@
       "sound": "공"
     },
     {
-      "hanja": "力",
-      "meaning": "힘",
-      "sound": "력"
+      "hanja": "業",
+      "meaning": "일",
+      "sound": "업"
     },
     {
-      "hanja": "百",
-      "meaning": "일백",
-      "sound": "백"
+      "hanja": "事",
+      "meaning": "일",
+      "sound": "사"
     },
     {
-      "hanja": "千",
-      "meaning": "일천",
-      "sound": "천"
+      "hanja": "會",
+      "meaning": "모일",
+      "sound": "회"
+    },
+    {
+      "hanja": "社",
+      "meaning": "모일",
+      "sound": "사"
+    },
+    {
+      "hanja": "使",
+      "meaning": "부릴",
+      "sound": "사"
+    },
+    {
+      "hanja": "作",
+      "meaning": "지을",
+      "sound": "작"
+    },
+    {
+      "hanja": "成",
+      "meaning": "이룰",
+      "sound": "성"
+    },
+    {
+      "hanja": "利",
+      "meaning": "이로울",
+      "sound": "이"
+    },
+    {
+      "hanja": "便",
+      "meaning": "편할",
+      "sound": "편"
+    },
+    {
+      "hanja": "通",
+      "meaning": "통할",
+      "sound": "통"
+    },
+    {
+      "hanja": "道",
+      "meaning": "길",
+      "sound": "도"
+    },
+    {
+      "hanja": "車",
+      "meaning": "수레",
+      "sound": "차"
+    },
+    {
+      "hanja": "電",
+      "meaning": "번개",
+      "sound": "전"
+    },
+    {
+      "hanja": "話",
+      "meaning": "말할",
+      "sound": "화"
+    },
+    {
+      "hanja": "休",
+      "meaning": "쉴",
+      "sound": "휴"
+    },
+    {
+      "hanja": "思",
+      "meaning": "생각",
+      "sound": "사"
+    },
+    {
+      "hanja": "知",
+      "meaning": "알",
+      "sound": "지"
+    },
+    {
+      "hanja": "信",
+      "meaning": "믿을",
+      "sound": "신"
+    },
+    {
+      "hanja": "約",
+      "meaning": "약속",
+      "sound": "약"
+    },
+    {
+      "hanja": "交",
+      "meaning": "사귈",
+      "sound": "교"
+    },
+    {
+      "hanja": "友",
+      "meaning": "벗",
+      "sound": "우"
+    },
+    {
+      "hanja": "親",
+      "meaning": "친할",
+      "sound": "친"
+    },
+    {
+      "hanja": "愛",
+      "meaning": "사랑",
+      "sound": "애"
+    },
+    {
+      "hanja": "情",
+      "meaning": "정",
+      "sound": "정"
+    },
+    {
+      "hanja": "心",
+      "meaning": "마음",
+      "sound": "심"
+    },
+    {
+      "hanja": "意",
+      "meaning": "뜻",
+      "sound": "의"
+    },
+    {
+      "hanja": "計",
+      "meaning": "셀",
+      "sound": "계"
+    },
+    {
+      "hanja": "定",
+      "meaning": "정할",
+      "sound": "정"
+    },
+    {
+      "hanja": "變",
+      "meaning": "변할",
+      "sound": "변"
+    },
+    {
+      "hanja": "合",
+      "meaning": "합할",
+      "sound": "합"
+    },
+    {
+      "hanja": "分",
+      "meaning": "나눌",
+      "sound": "분"
+    },
+    {
+      "hanja": "別",
+      "meaning": "다를",
+      "sound": "별"
+    },
+    {
+      "hanja": "選",
+      "meaning": "가릴",
+      "sound": "선"
+    },
+    {
+      "hanja": "決",
+      "meaning": "정할",
+      "sound": "결"
+    },
+    {
+      "hanja": "直",
+      "meaning": "곧을",
+      "sound": "직"
+    },
+    {
+      "hanja": "正",
+      "meaning": "바를",
+      "sound": "정"
+    },
+    {
+      "hanja": "公",
+      "meaning": "공평할",
+      "sound": "공"
+    },
+    {
+      "hanja": "私",
+      "meaning": "사사로울",
+      "sound": "사"
+    },
+    {
+      "hanja": "必",
+      "meaning": "반드시",
+      "sound": "필"
+    },
+    {
+      "hanja": "要",
+      "meaning": "필요할",
+      "sound": "요"
+    },
+    {
+      "hanja": "可",
+      "meaning": "옳을",
+      "sound": "가"
+    },
+    {
+      "hanja": "不",
+      "meaning": "아닐",
+      "sound": "불"
+    },
+    {
+      "hanja": "非",
+      "meaning": "아닐",
+      "sound": "비"
+    },
+    {
+      "hanja": "常",
+      "meaning": "항상",
+      "sound": "상"
+    },
+    {
+      "hanja": "初",
+      "meaning": "처음",
+      "sound": "초"
+    },
+    {
+      "hanja": "最",
+      "meaning": "가장",
+      "sound": "최"
+    },
+    {
+      "hanja": "各",
+      "meaning": "각각",
+      "sound": "각"
+    },
+    {
+      "hanja": "自",
+      "meaning": "스스로",
+      "sound": "자"
+    },
+    {
+      "hanja": "己",
+      "meaning": "자기",
+      "sound": "기"
     }
   ],
   "6급": [
